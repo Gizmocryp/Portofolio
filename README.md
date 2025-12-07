@@ -1,3 +1,3 @@
 # Portofolio
 
-Live Demo: "portofolio-pearl-nu.vercel.app"
+Live Demo: "https://portofolio-pearl-nu.vercel.app"
